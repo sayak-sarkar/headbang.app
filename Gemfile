@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 source 'http://rails-assets.org'
 
-gem "middleman"
+gem "middleman", ">= 3.3.3"
 
 gem 'slim'
 gem 'sass'
